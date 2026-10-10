@@ -1,0 +1,9 @@
+# Correduria Publica No. 78
+
+> Blog de correduria publica y derecho fiscal en Guadalajara, Jalisco (Mexico).
+
+Contenido: 30 articulos — 15 de correduria publica y 15 de derecho fiscal.
+
+## Secciones
+- [Correduria Publica](https://xameoc-sys.github.io/cp78-blog/correduria/)
+- [Derecho Fiscal](https://xameoc-sys.github.io/cp78-blog/fiscal/)
